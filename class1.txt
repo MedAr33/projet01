@@ -13,6 +13,9 @@ class class1{
 		inst4;//release
 	
 	}
+	f11{
+		inst1;//release2
+	}
 
 	fct3{
 		inst1.....;//test
