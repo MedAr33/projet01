@@ -9,7 +9,7 @@ class class1{
 	fct2{
 		inst1;
 		inst2;
-		inst3
+		//deleting i3
 		inst4;//release
 	
 	}
