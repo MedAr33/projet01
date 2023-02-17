@@ -11,8 +11,7 @@ class class3{
 	fct2{
 		inst1;
 		inst2;
-		inst3
-	
+		inst3...;//test	
 	}
 
 	fct3{

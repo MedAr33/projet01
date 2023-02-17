@@ -2,7 +2,7 @@ class class1{
 
 	fct1{
 
-		inst1;
+		inst1......;//test
 		inst2;
 		inst3;//release
 		inst4;//release
@@ -19,7 +19,7 @@ class class1{
 	}
 
 	fct3{
-		inst1;
+		inst1.....;//test
 		inst2;
 		inst3
 	
@@ -33,7 +33,7 @@ class class1{
 	}
 	//release
 	fct5{
-		inst1;
+		inst1.....;//test
 		inst2;
 		inst3
 	
