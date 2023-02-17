@@ -1,4 +1,4 @@
-class class1{
+class class3{
 
 	fct1{
 
@@ -16,6 +16,13 @@ class class1{
 	}
 
 	fct3{
+		inst1;
+		inst2;
+		inst3
+	
+	}
+	
+	fct4{
 		inst1;
 		inst2;
 		inst3

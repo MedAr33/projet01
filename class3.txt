@@ -1,12 +1,13 @@
-class class2{
-
+class class1{
 
 	fct1{
+
 		inst1;
 		inst2;
-		inst3
-	
+
 	}
+
+
 	fct2{
 		inst1;
 		inst2;
