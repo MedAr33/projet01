@@ -1,5 +1,10 @@
 class class3{
 
+/**
+*comment
+*/
+
+
 	fct1{
 
 		inst1;

@@ -1,5 +1,9 @@
 class class2{
 
+/**
+*comment
+*/
+
 
 	fct1{
 		inst1;

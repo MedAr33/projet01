@@ -1,13 +1,9 @@
 class class1{
+/**
+*comment
+*/
 
-	fct1{
-
-		inst1......;//test
-		inst2;
-		inst3;//release
-		inst4;//release
-
-	}
+	//deleting f1
 
 
 	fct2{
@@ -31,11 +27,5 @@ class class1{
 		inst3
 	
 	}
-	//release
-	fct5{
-		inst1.....;//test
-		inst2;
-		inst3
-	
-	}
+	//deleting f5
 }
