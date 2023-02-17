@@ -1,0 +1,6 @@
+class1Test.txt
+class2Test.txt
+class3Test.txt
+*.class
+*.war
+*.jar
