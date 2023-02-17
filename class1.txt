@@ -24,7 +24,8 @@ class class1{
 	fct4{
 		inst1;
 		inst2;
-		inst3
+		inst3;
+		inst4;//master
 	
 	}
 	//deleting f5
