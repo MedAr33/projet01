@@ -16,8 +16,8 @@ class class1{
 
 	fct3{
 		inst1.....;//test
-		inst2;
-		inst3
+		//deleting ins2
+		//ins3 master
 	
 	}
 	
