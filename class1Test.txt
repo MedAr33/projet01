@@ -1,12 +1,9 @@
 class class1TEST1{
 
-	fct1TEST1{
-
-		inst1;
-		inst2;
-		inst3;//release
-		inst4;//release
-
+	//deleting f1TEST1
+	}
+	f11TEST{
+		inst1;//release2
 	}
 
 
