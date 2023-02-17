@@ -1,6 +1,6 @@
-class class3{
+class class3TEST{
 
-	fct1{
+	fct1TEST1{
 
 		inst1;
 		inst2;
@@ -8,14 +8,14 @@ class class3{
 	}
 
 
-	fct2{
+	fct2TEST1{
 		inst1;
 		inst2;
 		inst3
 	
 	}
 
-	fct3{
+	fct3TEST1{
 		inst1;
 		inst2;
 		inst3

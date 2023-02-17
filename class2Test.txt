@@ -1,21 +1,20 @@
-class class3{
+class class2TEST{
 
-	fct1{
 
+	fct1TEST1{
 		inst1;
 		inst2;
-		inst3;//release
+		/*inst3;*/ //release
+	
 	}
-
-
-	fct2{
+	fct2TEST1{
 		inst1;
 		inst2;
 		inst3
 	
 	}
 
-	fct3{
+	fct3TEST1{
 		inst1;
 		inst2;
 		inst3

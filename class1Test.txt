@@ -1,6 +1,6 @@
-class class1{
+class class1TEST1{
 
-	fct1{
+	fct1TEST1{
 
 		inst1;
 		inst2;
@@ -10,7 +10,7 @@ class class1{
 	}
 
 
-	fct2{
+	fct2TEST1{
 		inst1;
 		inst2;
 		inst3
@@ -18,21 +18,21 @@ class class1{
 	
 	}
 
-	fct3{
+	fct3TEST1{
 		inst1;
 		inst2;
 		inst3
 	
 	}
 	
-	fct4{
+	fct4TEST1{
 		inst1;
 		inst2;
 		inst3
 	
 	}
 	//release
-	fct5{
+	fct5TEST1{
 		inst1;
 		inst2;
 		inst3
